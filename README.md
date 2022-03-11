@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrinityAdams
 - 👀 I’m interested in cats and soft things
 - 🌱 I’m currently learning how to code and build websites.
-- 💞️ I’m looking to collaborate on everything.
+- 💞️ I’m looking to learn as much as I can.
 - 📫 How to reach me email is requested.
 
 <!---
